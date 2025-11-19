@@ -114,7 +114,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.7.0",
-    "@microsoft/api-documenter": "^7.25.7",
+    "@microsoft/api-documenter": "^7.26.35",
     "@microsoft/api-extractor": "^7.47.2",
     "@types/jest": "^29.5.12",
     "@types/node": "^16.18.101",
